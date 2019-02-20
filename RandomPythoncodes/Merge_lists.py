@@ -14,4 +14,4 @@ for n in range(num2):
 
 merged_lists = lst + lst2
 
-print("Merged list: ", merged_lists)
+print("Merged list: ", merged_lists) 
