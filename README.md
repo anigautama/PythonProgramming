@@ -1,7 +1,7 @@
 # Python Programming
 
-Algorithms
+- Algorithms
 
-Data Structures
+- Data Structures
 
-Random Python Codes
+- Random Python Codes
