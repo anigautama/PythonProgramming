@@ -1,4 +1,4 @@
-#anil
+#anil 
 
 class Stack():
     '''An ADT for stact'''
